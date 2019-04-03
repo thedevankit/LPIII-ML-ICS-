@@ -42,3 +42,10 @@ For Example: Fruits Classification or Soil Classification or Leaf Disease Classi
 ### Mini-Project 3 on PCA:
 Apply the Principal Component Analysis for feature reduction on any Company Stock Market
 Dataset
+
+
+## Information and Cyber Security
+### 1. Implementation of S-DES
+### 2. Implementation of S-AES
+### 3. Implementation of Diffie-Hellman key exchange
+### 4. Implementation of RSA.
